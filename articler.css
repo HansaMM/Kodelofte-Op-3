@@ -1,5 +1,6 @@
 .frifundament {
     box-sizing: border-box;
+    display: flex;
     width: 50;
 }
 
