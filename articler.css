@@ -1,4 +1,5 @@
 .frifundament {
+    list-style: inside;
     list-style: square;
     box-sizing: border-box;
     display: flex;
