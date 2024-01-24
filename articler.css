@@ -1,6 +1,8 @@
 .frifundament {
+    list-style: square;
     box-sizing: border-box;
     display: flex;
+    flex-direction: column;
     width: 50;
 }
 
