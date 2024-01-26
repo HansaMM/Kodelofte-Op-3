@@ -1,5 +1,5 @@
-.body {
-    background-origin: padding-box;
-    border-width: 0cm;
+.artikler-kontainer {
+    display: flex
+    flex-wrap: ;
     
 }
