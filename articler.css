@@ -2,6 +2,7 @@
     display: flex;
     flex: wrap;
     outline-style: solid;
+    outline: color( red);
     outline: medium;
     margin: auto;
 }
