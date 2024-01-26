@@ -4,3 +4,8 @@
     width: 100%
 }
 
+.body {
+    background-origin: padding-box;
+    border-width: 0cm;
+    
+}
