@@ -1,6 +1,7 @@
 .artikler-kontainer {
     display: flex;
     flex-wrap: wrap;
+    flex: 200px;
     outline-style: solid;
     outline: color( red);
     outline: medium;
