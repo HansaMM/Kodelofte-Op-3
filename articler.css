@@ -1,7 +1,5 @@
 .artikler-kontainer {
     display: flex;
     flex: wrap;
-    display: block; 
-
     
 }
