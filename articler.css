@@ -1,16 +1,13 @@
-.frifundament {
-    list-style: inside;
-    list-style: square;
-    box-sizing: border-box;
-    display: flex;
-    flex-direction: column;
-    width: 50;
+.frihetenfundament {
+   
+   position: relative;
+   z-index: 50px;
 }
 
-.frifundament {
+.f {
     
 }
 
-.frifundament {
+.fri {
     
 }
