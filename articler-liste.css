@@ -1,2 +1,6 @@
-
+.artickler-liste {
+display: flexbox;
+flex-wrap: wrap;
+background-origin: padding-box;
+}
 
