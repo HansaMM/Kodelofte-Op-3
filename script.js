@@ -6,4 +6,12 @@ myfunction()
 
 const mybutton =  document.getElementById("Click-Me")
 
-mybutton.addEventListener("Click", myfunction)
+mybutton.addEventListener("Mauseenter", myfunction)
+
+function withParameneters (name) {
+    const greeting = "greeeting" + name
+    console.log(greeting)
+}
+
+withParameneters (Hans)
+withParameneters (Leo)
