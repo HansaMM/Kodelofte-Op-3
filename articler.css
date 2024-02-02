@@ -1,7 +1,7 @@
 .artikler-kontainer {
     display: flex;
     flex-wrap: wrap;
-    position: relative;
+    position: absolute;
     text-wrap: justify;
     border-image: auto;
     border-right: 100cm;
