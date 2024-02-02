@@ -1,8 +1,10 @@
 .iframe-absolute {
     display: block;
     position: inherit;
+    border-bottom: 100cm;
     border: 1px solid black;
     width: 100%
+    
 }
 
 .theme-bright {
