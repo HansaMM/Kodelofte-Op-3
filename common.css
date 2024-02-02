@@ -1,7 +1,7 @@
 .iframe-absolute {
     display: block;
     position: inherit;
-    border-bottom: 100cm;
+    border-bottom: 0cm;
     border: 1px solid black;
     width: 100%
     
