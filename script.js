@@ -1,3 +1,5 @@
+function myfunction() {
+    console.log('Hello!');
+}
 
-
-console.log('Hello!');
+myfunction()
