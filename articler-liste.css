@@ -2,6 +2,7 @@
 display: flexbox;
 display: block;
 position: relative;
+flex-basis: auto;
 
 }
 
