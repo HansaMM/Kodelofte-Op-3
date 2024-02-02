@@ -1,5 +1,6 @@
 .artikler-kontainer {
     display: flexbox;
+    display: block;
     flex-wrap: wrap;
     text-wrap: justify;
     border-image: auto;
