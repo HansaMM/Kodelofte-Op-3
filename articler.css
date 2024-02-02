@@ -2,7 +2,6 @@
     display: flexbox;
     display: block;
     float: left;
-    flex-wrap: wrap;
     text-wrap: justify;
     border-image: auto;
     border-right: 100cm;
@@ -13,7 +12,6 @@
     display: flexbox;
     display: block;
     float: right;
-    flex-wrap: wrap;
     text-wrap: justify;
     border-image: auto;
     border-right: 100cm;
