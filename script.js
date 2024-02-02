@@ -22,3 +22,16 @@ function sum(numberA, numberB) {
 
 const totalA = sum(2, 3)
 console.log(totalA)
+
+
+
+function setThemeToBright () {
+
+
+}
+
+function setThemeToDark () {
+
+
+}
+
