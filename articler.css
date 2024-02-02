@@ -1,12 +1,10 @@
 .artikler-kontainer {
-    display: flex;
+    display: flexbox;
     flex-wrap: wrap;
     position: absolute;
     text-wrap: justify;
     border-image: auto;
     border-right: 100cm;
-    border-top-right-radius: 100;
-    flex: 200px;
     position: relative
     
 }
