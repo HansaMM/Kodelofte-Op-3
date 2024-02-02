@@ -2,6 +2,7 @@
     display: flex;
     flex-wrap: wrap;
     text-wrap: justify;
+    border-image: auto;
     flex: 200px;
     position: relative
     
