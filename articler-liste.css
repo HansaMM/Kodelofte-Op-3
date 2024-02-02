@@ -1,7 +1,6 @@
 .artickler-liste {
 display: flexbox;
 position: relative;
-flex-wrap: wrap;
 
 }
 
