@@ -1,6 +1,7 @@
 .artickler-liste {
 display: flexbox;
 display: block;
+display: grid;
 position: relative;
 flex-basis: auto;
 float: left;
@@ -10,6 +11,7 @@ float: left;
 .artickler-liste2 {
     display: flexbox;
     display: block;
+    display: grid;
     position: relative;
     flex-basis: auto;
     float: right;
