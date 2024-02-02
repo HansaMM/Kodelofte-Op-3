@@ -15,3 +15,10 @@ function withParameneters (name) {
 
 withParameneters (Hans)
 withParameneters (Leo)
+
+function sum(numberA, numberB) {
+    return numberA + numberB
+}
+
+const totalA = sum(2, 3)
+console.log(totalA)
