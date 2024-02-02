@@ -11,6 +11,8 @@
     display: inline;
     display: block;
     position: inherit;
+    position: relative;
+    bottom: auto;
     border-bottom: 100cm;
     border: 1px solid black;
     width: 100%
