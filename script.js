@@ -3,3 +3,7 @@ function myfunction() {
 }
 
 myfunction()
+
+const mybutton =  document.getElementById("Click-Me")
+
+mybutton.addEventListener("Click", myfunction)
