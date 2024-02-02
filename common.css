@@ -1,5 +1,6 @@
 .iframe-absolute {
     display: block;
+    display: inline;
     position: inherit;
     border-bottom: 0cm;
     border: 1px solid black;
