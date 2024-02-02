@@ -1,5 +1,4 @@
 .iframe-absolute {
-    display: flexbox;
     display: block;
     float: right;
     position: inherit;
