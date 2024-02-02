@@ -1,5 +1,5 @@
 .artickler-liste {
-display: block; flex: auto;
+display: flexbox;
 flex-wrap: wrap;
 position: relative;
 
