@@ -1,7 +1,7 @@
 .iframe-absolute {
     display: block;
     display: inline;
-    position: inherit;
+    position: absolute;
     border-bottom: 0cm;
     border: 1px solid black;
     width: 100%
@@ -12,7 +12,7 @@
     display: inline;
     display: block;
     position: inherit;
-    position: relative;
+    position: absolute;
     bottom: auto;
     border-bottom: 100cm;
     border: 1px solid black;
