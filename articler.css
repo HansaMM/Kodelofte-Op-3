@@ -1,7 +1,7 @@
 .artikler-kontainer {
     display: flex;
     flex-wrap: wrap;
-    text-align: justify;
+    text-wrap: justify;
     flex: 200px;
     position: relative
     
