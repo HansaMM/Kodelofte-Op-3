@@ -4,5 +4,6 @@ flex-wrap: wrap;
 background-origin: padding-box;
 background-color: black;
 background-position: 100%;
+background-attachment: fixed;
 }
 
