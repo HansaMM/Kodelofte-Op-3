@@ -2,7 +2,7 @@
     display: flexbox;
     display: block;
     float: right;
-    position: relative;
+    position: inherit;
     border: 1px solid black;
     width: 100%
 }
