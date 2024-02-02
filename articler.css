@@ -1,5 +1,6 @@
 .artikler-kontainer {
     display: flexbox;
+    display: grid;
     float: left;
     text-wrap: justify;
     border-image: auto;
@@ -11,6 +12,7 @@
 
 .artikler-kontainer2 {
     display: flexbox;
+    display: grid;
     float: right;
     text-wrap: justify;
     border-image: auto;
