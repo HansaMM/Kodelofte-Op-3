@@ -1,5 +1,7 @@
 .iframe-absolute {
-    position: absolute;
+    display: flexbox;
+    float: right;
+    position: relative;
     border: 1px solid black;
     width: 100%
 }
