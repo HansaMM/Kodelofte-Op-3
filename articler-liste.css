@@ -3,6 +3,18 @@ display: flexbox;
 display: block;
 position: relative;
 flex-basis: auto;
+float: left;
 
 }
+
+.artickler-liste2 {
+    display: flexbox;
+    display: block;
+    position: relative;
+    flex-basis: auto;
+    float: right;
+    
+    }
+    
+
 
