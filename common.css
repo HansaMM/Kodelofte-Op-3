@@ -7,6 +7,18 @@
     
 }
 
+.footer-container {
+    display: inline;
+    display: block;
+    position: inherit;
+    border-bottom: 100cm;
+    border: 1px solid black;
+    width: 100%
+    
+}
+
+
+
 .theme-bright {
     background-color: white;
     text-emphasis-color: black;
