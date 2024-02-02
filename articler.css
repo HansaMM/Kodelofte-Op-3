@@ -2,6 +2,7 @@
     display: flexbox;
     display: block;
     float: left;
+    flex-shrink: inherit;
     text-wrap: justify;
     border-image: auto;
     border-right: 100cm;
@@ -14,6 +15,7 @@
     display: flexbox;
     display: block;
     float: right;
+    flex-shrink: inherit;
     text-wrap: justify;
     border-image: auto;
     border-right: 100cm;
