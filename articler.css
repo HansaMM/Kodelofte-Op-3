@@ -1,12 +1,12 @@
 .artikler-kontainer {
-    display: flexbox;
+    display: flex;
     display: wrap;
 
     
 }
 
 .artikler-kontainer2 {
-    display: flexbox;
+    display: flex;
     display: wrap;
     
     
