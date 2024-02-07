@@ -1,13 +1,6 @@
 .artikler-kontainer {
     display: flex;
-    display: wrap;
-
-    
+    flex-direction: column;
+    width: 445px;
 }
 
-.artikler-kontainer2 {
-    display: flex;
-    display: wrap;
-    
-    
-}
