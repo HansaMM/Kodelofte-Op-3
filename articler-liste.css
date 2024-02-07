@@ -1,5 +1,6 @@
 .artickler-liste {
 display: flexbox;
+display: wrap;
 
 
 
@@ -7,6 +8,7 @@ display: flexbox;
 
 .artickler-liste2 {
     display: flexbox;
+    display: wrap;
     
   
     
