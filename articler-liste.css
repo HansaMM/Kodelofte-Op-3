@@ -1,21 +1,13 @@
 .artickler-liste {
 display: flexbox;
-display: block;
-display: grid;
-display: inline-flex;
-position: relative;
-flex-basis: auto;
-float: left;
+
+
 
 }
 
 .artickler-liste2 {
     display: flexbox;
-    display: block;
-    display: grid;
-    display: inline-flex;
-    position: relative;
-    flex-basis: auto;
-    float: right;
+    
+  
     
     }
