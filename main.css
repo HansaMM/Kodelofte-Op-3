@@ -1,4 +1,6 @@
 .frihetenfundament {
     display: flex;
     display: wrap;
+    border: solid;
+    border-color: red;
 }
