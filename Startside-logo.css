@@ -1,1 +1,6 @@
-.Startside-logo
+.Startside-logo {
+    display: flex;
+    display: block;
+    width: auto;
+    border-color: red;
+}
