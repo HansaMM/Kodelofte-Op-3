@@ -1,7 +1,7 @@
 .articler-liste {
 display: flex;
 flex-wrap: wrap;
-gap: 10px;
+gap: 5px;
 max-width: 1000px;
 
 
