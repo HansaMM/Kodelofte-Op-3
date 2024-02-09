@@ -1,6 +1,5 @@
 .Startside-logo {
     display: flex;
     width: auto;
-    border: solid;
-    border-color: red;
+    background-color: red;
 }
