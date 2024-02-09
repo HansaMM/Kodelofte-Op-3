@@ -2,5 +2,6 @@
    display: flex;
    flex-wrap: wrap;
    border: solid;
+   border: block;
    z-index: 50px;
 }
