@@ -1,5 +1,6 @@
 .frihetenfundament {
    display: flex;
-   position: relative;
+   flex-wrap: wrap;
+   border: 1000px;
    z-index: 50px;
 }
