@@ -1,9 +1,4 @@
 .frihetennavbar {
    display: flex;
-   flex-direction: column;
-   border: solid;
-   border-collapse: collapse;
-   border-color: red;
-   width: auto;
-   text-align: center;
+   background-color: red;
 }
