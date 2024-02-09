@@ -3,4 +3,5 @@
    flex-wrap: wrap;
    border: solid;
    border-color: red;
+   width: auto;
 }
