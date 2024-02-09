@@ -1,6 +1,7 @@
 .Startside-logo {
     display: flex;
     display: block;
-    width: auto;
+    width: 300px;
     border-color: red;
+    max-width: 1000px;
 }
