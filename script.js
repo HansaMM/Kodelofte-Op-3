@@ -35,10 +35,14 @@ function setThemeToDark () {
 
 }
 
-const articles = (
+const articles =  {
 
+    id: "Avisen Friheten"
+    redaktor: "Hans Jorgen Mala Milde", "Alexander Sornes",
+    tags-liste:
     
 
 
 
-)
+
+}
