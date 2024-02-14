@@ -2,7 +2,7 @@
 display: flex;
 flex-wrap: wrap;
 gap: 5px;
-max-width: 500;
+max-width: auto;
 
 
 
