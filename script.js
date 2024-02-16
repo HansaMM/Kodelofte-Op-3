@@ -35,14 +35,17 @@ function setThemeToDark () {
 
 }
 
+
+
 const articles = document.getElementById("article-pub")
 
-{
+(
 
     id: "Avisen Friheten"
     redaktør: "Hans Jørgen Mala Milde", "Alexander Sørnes",
     tags-liste:
-    author: 
+    author:
+    email: 
     createdAT: "Dato", "Streng"
 
-}
+)
