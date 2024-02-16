@@ -40,6 +40,7 @@ const articles =  {
     id: "Avisen Friheten"
     redaktør: "Hans Jørgen Mala Milde", "Alexander Sørnes",
     tags-liste:
+    createdAT: Dato / Streng
     
 
 
