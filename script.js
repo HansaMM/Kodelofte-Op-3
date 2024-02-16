@@ -35,7 +35,9 @@ function setThemeToDark () {
 
 }
 
-const articles =  {
+const articles = document.getElementById("article-pub")
+
+{
 
     id: "Avisen Friheten"
     redaktør: "Hans Jørgen Mala Milde", "Alexander Sørnes",
