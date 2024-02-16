@@ -35,11 +35,7 @@ function setThemeToDark () {
 
 }
 
-function addTask() {
-    console.log
-}
-
-const articles = document.getElementById("article-pub")
+const article-category = document.createElement{"section"}
 
 (
 
