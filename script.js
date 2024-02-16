@@ -40,7 +40,7 @@ const article-category = document.createElement{"section"}
 (
 
     id: "Avisen Friheten"
-    redaktør: "Hans Jørgen Mala Milde", "Alexander Sørnes",
+    redaktør: "Hans Jørgen Mala Milde", "Alexander N. Sørnes",
     tags-liste:
     author:
     email: 
