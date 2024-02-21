@@ -35,7 +35,7 @@ function setThemeToDark () {
 
 }
 
-Function myfunction () {
+function myfunction () {
 console.log("hello");
 
 
