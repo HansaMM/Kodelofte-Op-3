@@ -4,5 +4,6 @@
     flex-direction: column;
     gap: 5px;
     width: 1000;
+    border: solid;
 }
 
