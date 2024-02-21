@@ -35,7 +35,7 @@ function setThemeToDark () {
 
 }
 
-const article-category = document.createElement{"section"}
+const article = document.createElement{"section"}
 
 (
 
