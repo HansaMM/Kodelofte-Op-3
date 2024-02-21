@@ -4,7 +4,7 @@ function myfunction() {
 
 myfunction()
 
-const mybutton =  document.getElementById("Click-Me")
+const mybutton = document.getElementById("Click-Me")
 
 mybutton.addEventListener("Mauseenter", myfunction)
 
@@ -44,6 +44,8 @@ console.log("hello");
 }
 
 const articleCat = document.getElementById ("div")
+
+articleCat.
 
 (
 
