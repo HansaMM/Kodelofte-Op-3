@@ -1,6 +1,7 @@
 .artikler-kontainer {
     display: flex;
     flex-wrap: wrap;
+    flex-direction: column;
     gap: 5px;
     width: 1000;
 }
