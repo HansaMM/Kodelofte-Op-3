@@ -43,7 +43,7 @@ console.log("hello");
 
 }
 
-const articleCat = document.getElementById ("section")
+const articleCat = document.getElementById ("div")
 
 (
 
