@@ -35,7 +35,15 @@ function setThemeToDark () {
 
 }
 
-const article = document.createElement{"section"}
+Function myfunction () {
+console.log("hello");
+
+
+
+
+}
+
+const articleCat = document.getElementById ("section")
 
 (
 
@@ -47,3 +55,5 @@ const article = document.createElement{"section"}
     createdAT: "Dato", "Streng"
 
 )
+
+
