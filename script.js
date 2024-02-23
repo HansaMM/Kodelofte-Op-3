@@ -43,9 +43,9 @@ console.log("hello");
 
 }
 
-const articleCat = document.getElementById ("div")
+const Publish = document.getElementById ("div")
 
-articleCat.
+Publish.
 
 (
 
