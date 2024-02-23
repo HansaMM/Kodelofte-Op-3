@@ -3,7 +3,8 @@
     display: inline;
     position: absolute;
     border-bottom: 0cm;
-    border: 1px solid black;
+    border: solid black;
+    border: 1px
     width: 100%
     
 }
@@ -12,7 +13,7 @@
     display: flex;
     width: auto;
     background-color: black;
-    border-color: black;
+    border: 1px solid black;
     
 }
 
