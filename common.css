@@ -1,12 +1,8 @@
 .iframe-absolute {
-    display: block;
-    display: inline;
-    position: absolute;
-    border-bottom: 0cm;
+    display: flex;
+    position: left;
     border: solid black;
     border: 1px
-    width: 100%
-    
 }
 
 .footer-container {
@@ -14,7 +10,7 @@
     width: auto;
     background-color: black;
     border: 1px solid black;
-    position: fixed;
+    
     
 }
 
