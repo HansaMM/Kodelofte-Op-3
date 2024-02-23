@@ -9,14 +9,8 @@
 }
 
 .footer-container {
-    display: inline;
-    display: block;
-    position: inherit;
-    position: absolute;
-    bottom: auto;
-    border-bottom: 50cm;
-    border: solid black;
-    width: 50%
+    border: 1px solid black;
+    width: 100%
     
 }
 
