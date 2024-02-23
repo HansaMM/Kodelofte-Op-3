@@ -17,6 +17,7 @@
 .footer-buttons {
     display: flex;
     position: right;
+    display: column;
 
 }
 
