@@ -14,19 +14,9 @@
     width: auto;
     background-color: black;
     border: 1px solid black;
+    position: fixed;
     
 }
 
-
-
-.theme-bright {
-    background-color: white;
-    text-emphasis-color: black;
-}
-
-.theme-dark {
-    background-color: black;
-    text-emphasis-color: white;
-}
 
 
