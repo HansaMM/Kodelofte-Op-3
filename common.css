@@ -9,8 +9,10 @@
 }
 
 .footer-container {
-    border: 1px solid black;
-    width: 100%
+    display: flex;
+    width: auto;
+    background-color: black;
+    border-color: black;
     
 }
 
