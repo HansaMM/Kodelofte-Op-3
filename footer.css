@@ -1,6 +1,7 @@
 .iframe-absolute {
     display: flex;
     position: left;
+    justify-content: end;
     
 }
 
