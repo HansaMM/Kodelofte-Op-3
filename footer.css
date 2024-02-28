@@ -1,15 +1,16 @@
 .iframe-absolute {
     display: flex;
     position: left;
-    border: solid black;
-    border: 1px
+    
 }
 
 .footer-container {
     display: flex;
     width: auto;
     background-color: black;
-    border: 1px solid black;
+    border: solid;
+    border-color: red;
+    border-width: 25px;
     
     
 }
