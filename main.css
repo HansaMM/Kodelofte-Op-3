@@ -6,3 +6,9 @@
     border-style: double;
     width: auto;
 }
+
+.frihetenbackr {
+     background-color: red;
+     border-width: 10px;
+
+}
