@@ -2,4 +2,6 @@
     display: flex;
     width: auto;
     background-color: black;
+    border-color: red;
+    border-width: 50px;
 }
