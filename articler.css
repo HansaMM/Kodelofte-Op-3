@@ -5,6 +5,7 @@
     gap: 5px;
     width: 1000;
     border: solid;
+    border-color: red;
     text-align: center;
 }
 
