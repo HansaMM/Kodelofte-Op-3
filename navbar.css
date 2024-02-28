@@ -5,6 +5,8 @@
 }
 
 .side-nav {
+   display: flex;
+   border: solid;
+   border-color: red;
 
-   
 }
